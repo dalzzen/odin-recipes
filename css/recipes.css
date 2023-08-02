@@ -1,0 +1,13 @@
+img{
+    width: auto;
+    height: 400px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+h3{
+    color: rgb(179, 19, 18);
+    margin-bottom: 20px;
+}
+ol{
+    line-height: 1.5;
+}

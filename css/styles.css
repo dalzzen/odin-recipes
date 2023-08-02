@@ -4,4 +4,18 @@
 }
 body{
     font-family: 'Rubik', sans-serif;
+    background-color: rgb(238, 226, 222);
+    margin-left: 70px;
+}
+h1{
+    color: rgb(179, 19, 18);
+    margin-top: 30px;
+}
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(234, 144, 108);
+}
+ul{
+    line-height: 1.5;
 }
